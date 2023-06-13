@@ -158,6 +158,7 @@ ALTER TABLE `registro_evento`
 -- Restricciones para tablas volcadas
 --
 
+
 --
 -- Filtros para la tabla `encuesta`
 --
